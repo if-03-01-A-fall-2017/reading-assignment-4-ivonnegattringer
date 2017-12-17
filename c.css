@@ -1,0 +1,27 @@
+.left-col {
+  width: 50%;
+  min-height: 200px;
+  float: left;
+  box-sizing: border-box;
+  padding-left: 5em;
+  padding-right:5em;
+}
+
+.right-col {
+  width: 50%;
+  min-height: 200px;
+  float: right;
+  padding-left: 5em;
+  padding-right:5em;
+}
+article {
+  padding-left: 5em;
+  padding-right: 5em;
+}
+h1{
+  text-align: center;
+}
+.middle{
+  margin-left: 25%;
+  margin-right: 25%;
+}
